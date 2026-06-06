@@ -1,0 +1,27 @@
+{
+  "student1": [
+    {
+      "id": "n1",
+      "text": "You have been added to 'Tree Planter' group chat!",
+      "kind": "success",
+      "time": "2025-05-10 09:00",
+      "read": false
+    },
+    {
+      "id": "n2",
+      "text": "New announcement from EcoGreen Society.",
+      "kind": "info",
+      "time": "2025-05-10 09:20",
+      "read": false
+    }
+  ],
+  "student2": [
+    {
+      "id": "n1",
+      "text": "You have been added to 'Documentation' group chat!",
+      "kind": "success",
+      "time": "2025-05-10 10:00",
+      "read": false
+    }
+  ]
+}

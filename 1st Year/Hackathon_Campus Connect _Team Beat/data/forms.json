@@ -1,0 +1,73 @@
+{
+  "form1": {
+    "id": "form1",
+    "event_id": "evt1",
+    "title": "Tree Planting Registration",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is your preferred role?",
+        "type": "choice",
+        "options": [
+          "Tree Planter",
+          "Logistics",
+          "Documentation"
+        ],
+        "assigns_to_group": true
+      },
+      {
+        "id": "q2",
+        "text": "Do you have gardening experience?",
+        "type": "choice",
+        "options": [
+          "Yes",
+          "No"
+        ],
+        "assigns_to_group": false
+      },
+      {
+        "id": "q3",
+        "text": "Any allergies or health concerns?",
+        "type": "text",
+        "assigns_to_group": false
+      }
+    ]
+  },
+  "form2": {
+    "id": "form2",
+    "event_id": "evt2",
+    "title": "Hackathon Registration",
+    "questions": [
+      {
+        "id": "q1",
+        "text": "Select your track:",
+        "type": "choice",
+        "options": [
+          "Web Dev",
+          "Mobile App",
+          "AI/ML",
+          "IoT"
+        ],
+        "assigns_to_group": true
+      },
+      {
+        "id": "q2",
+        "text": "Team name (leave blank to be assigned):",
+        "type": "text",
+        "assigns_to_group": false
+      },
+      {
+        "id": "q3",
+        "text": "Primary programming language:",
+        "type": "choice",
+        "options": [
+          "Python",
+          "JavaScript",
+          "Java",
+          "C++"
+        ],
+        "assigns_to_group": false
+      }
+    ]
+  }
+}

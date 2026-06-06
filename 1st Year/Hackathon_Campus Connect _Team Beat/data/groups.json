@@ -1,0 +1,11 @@
+{
+  "grp1": {
+    "id": "grp1",
+    "event_id": "evt1",
+    "name": "Tree Planter",
+    "members": [
+      "student1"
+    ],
+    "created": "2026-04-22"
+  }
+}

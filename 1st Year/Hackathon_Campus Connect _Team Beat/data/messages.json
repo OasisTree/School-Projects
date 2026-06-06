@@ -1,0 +1,22 @@
+{
+  "grp1": [
+    {
+      "sender_id": "org1",
+      "sender": "EcoGreen Society",
+      "text": "Welcome to the Tree Planting team! \ud83c\udf31 Please arrive by 7:45 AM.",
+      "time": "2025-05-10 09:00"
+    },
+    {
+      "sender_id": "student1",
+      "sender": "Juan dela Cruz",
+      "text": "Looking forward to it! Should we bring our own gloves?",
+      "time": "2025-05-10 09:15"
+    },
+    {
+      "sender_id": "org1",
+      "sender": "EcoGreen Society",
+      "text": "Gloves will be provided. Just bring water and sunscreen! \u2600\ufe0f",
+      "time": "2025-05-10 09:20"
+    }
+  ]
+}

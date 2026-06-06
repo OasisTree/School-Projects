@@ -1,0 +1,44 @@
+{
+  "evt1": {
+    "id": "evt1",
+    "title": "Campus Tree Planting Drive",
+    "org_id": "org1",
+    "category": "Environmental",
+    "date": "2025-05-15",
+    "time": "8:00 AM",
+    "location": "Campus Grounds",
+    "description": "Join us in planting 500 trees around campus to promote sustainability and a greener environment.",
+    "max_slots": 50,
+    "registered": [
+      "student1"
+    ],
+    "status": "upcoming",
+    "created": "2026-04-22",
+    "form_id": "form1",
+    "tags": [
+      "sustainability",
+      "environment"
+    ],
+    "points": 100
+  },
+  "evt2": {
+    "id": "evt2",
+    "title": "Hackathon 2025",
+    "org_id": "org2",
+    "category": "Academic",
+    "date": "2025-05-20",
+    "time": "9:00 AM",
+    "location": "IT Building, Room 301",
+    "description": "24-hour hackathon open to all CS students. Build innovative solutions for campus problems.",
+    "max_slots": 30,
+    "registered": [],
+    "status": "upcoming",
+    "created": "2026-04-22",
+    "form_id": "form2",
+    "tags": [
+      "tech",
+      "coding"
+    ],
+    "points": 200
+  }
+}
