@@ -122,7 +122,7 @@ Di_Budol_Website/
 
 ---
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### For First-Time Visitors
 1. Start at the **Home page** to understand digital literacy and platform mission
@@ -142,7 +142,7 @@ Di_Budol_Website/
 
 ---
 
-## 🎨 Design Principles
+## Design Principles
 
 - **Accessibility**: High contrast ratios and readable typography
 - **Responsiveness**: Seamless experience on mobile, tablet, and desktop
@@ -152,7 +152,7 @@ Di_Budol_Website/
 
 ---
 
-## 🔄 Navigation
+## Navigation
 
 ```
 Home → Learning Center → Support → Contact (available from all pages)
@@ -164,7 +164,7 @@ Home → Learning Center → Support → Contact (available from all pages)
 
 ---
 
-## 📝 Content Management
+## Content Management
 
 ### Adding New Educational Content
 1. Create video tutorials and host on YouTube
@@ -187,7 +187,7 @@ Home → Learning Center → Support → Contact (available from all pages)
 
 ---
 
-## 🌐 External Integrations
+## External Integrations
 
 - **Google Fonts**: Inter font family for consistent typography
 - **Font Awesome**: Icons for UI elements (v6.4.0)
@@ -196,7 +196,7 @@ Home → Learning Center → Support → Contact (available from all pages)
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - **Multi-language Support**: Localization for Tagalog and other languages
 - **Interactive Quizzes**: Assessment tools to measure learning
@@ -224,10 +224,16 @@ This project is part of academic coursework and is available under educational u
 
 ---
 
-## Contributors
+## Team Contributors
 
-- Project developed as part of first-year computer science coursework
-- Designed to promote digital literacy and community welfare
+**Di-Budol Website Team**:
+- Kisha Aguanta
+- Neil Driz
+- Dylan Oatis
+- John Pagadora
+- Glance Reyes
+
+Project developed as part of first-year computer science coursework. Designed to promote digital literacy and community welfare.
 
 ---
 

@@ -548,12 +548,19 @@ This project was developed as part of first-year Computer Science hackathon cour
 - Form creation and responses
 - Notification system
 - Group management
-- [x] Attendance tracking
-- [x] Dark theme UI
-- [x] JSON data persistence
-- [ ] Cloud deployment
-- [ ] Mobile app
-- [ ] Web version
+
+---
+
+## Team Contributors
+
+**CampusConnect Development Team**:
+- Kisha Aguanta
+- Neil Driz
+- Dylan Oatis
+- John Pagadora
+- Glance Reyes
+
+Developed as part of first-year Computer Science hackathon coursework.
 
 ---
 
