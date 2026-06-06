@@ -1,0 +1,8 @@
+P|PROV-2|Commission on Higher Education (CHED)|ched123|chedscholarships@ched.gov.ph|09981234567|C.P. Garcia Ave, Diliman, Quezon City|www.ched.gov.ph
+S|PROV-2|SCH-1|CHED Student Financial Assistance Programs (StuFAPs)|Financial assistance for deserving Filipino students, especially those from low-income families.|2.5|400000|Philippines|20000|5000|2026-06-15|
+P|PROV-4|City Government of Lipa (Office of Mayor Eric B. Africa)|lipa123|scholarships@lipa.gov.ph|09192345678|Lipa City Hall, Batangas|www.lipa.gov.ph
+S|PROV-4|SCH-1|Lipa City Educational Assistance Program|Financial aid for qualified residents of Lipa City to support their college education.|2.5|250000|Lipa City|10000|200|2026-07-30|
+P|PROV-3|Provincial Government of Batangas (Office of Gov. Vilma Santos)|batangas123|scholarships@batangas.gov.ph|09184567890|Provincial Capitol, Batangas City|www.batangas.gov.ph
+S|PROV-3|SCH-1|Batangas Provincial Scholarship Program|Financial assistance for Batangueno students to support their college education.|2.25|300000|Batangas|15000|300|2026-07-15|
+P|PROV-1|Department of Science and Technology (DOST)|dost123|scholarships@dost.gov.ph|09171234567|Bicutan, Taguig City|www.dost.ph
+S|PROV-1|SCH-1|DOST-SEI Undergraduate Scholarship Program|Financial assistance for Filipino students pursuing degrees in science and technology fields.|1.75|200000|Philippines|40000|1000|2026-05-30|26-1,
